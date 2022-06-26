@@ -77,6 +77,11 @@ section{
     padding: 50px 0;
     margin: 0 50px;
 }
+  .logo_alt {
+    width: auto;
+    height: auto;
+    max-width:150px;
+}
 
 .navbar {
     position: relative;
@@ -84,7 +89,8 @@ section{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: .5rem 1rem;
+     padding: .5rem 1rem;
+    height:70px;
 }
 .navbar>.container, .navbar>.container-fluid {
     display: flex;
