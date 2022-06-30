@@ -1040,6 +1040,22 @@ form.registration-form {
     margin-bottom: 20px;
 }
 
+.testC {
+    display: grid;
+align-items: center;
+background-color: #fff;
+text-align: center;
+padding: 40px 15px;
+border-radius: 20px;
+width: 98%;
+box-shadow: 0 3px 6px rgb(217 235 249), 0 3px 6px rgb(209 232 249);
+ }
+
+ .testC img {
+    padding: 25px;
+    margin: 0px auto;
+ }
+
 .testi-para{
     font-size: 22px;
     font-weight: 500;
